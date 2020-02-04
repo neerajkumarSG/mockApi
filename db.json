@@ -3,14 +3,14 @@
         "id": "1",
         "first_name": "Tiger",
         "last_name": "Nixon",
-        "email": "61",
+        "email": "tiger@gmail.com",
         "phone": "+6584618352",
         "gender": "Male"
     }, {
         "id": "2",
         "first_name": "Garrett",
         "last_name": "Winters",
-        "email": "63",
+        "email": "gar@hotmail.com",
         "phone": "+6584613452",
         "gender": "Female"
     }]
